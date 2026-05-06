@@ -1,4 +1,3 @@
-// UserList.jsx — fetches users from the API and renders a UserCard for each one
 
 import { useState, useEffect } from 'react'
 import UserCard from './UserCard'
